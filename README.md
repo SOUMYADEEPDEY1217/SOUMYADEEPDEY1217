@@ -1,16 +1,24 @@
-## Hi there 👋
+💫 About Me:
+🎓 B.Tech CSE | Adamas University
+🏗 Currently Working On JARVIS — Advanced AI Virtual Assistant
+💻 Full Stack (React, Node, MongoDB)
+🎮Game Developer
+⚙️ Strong in C, C++,JAVA, JAVASCRIPT,HTML,MySQL & Data Structures
 
-<!--
-**SOUMYADEEPDEY1217/SOUMYADEEPDEY1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C++ Python Bash Script TypeScript Java JavaScript CSS3 HTML5 AWS Google Cloud Oracle Vercel Firebase Azure NodeJS React Anaconda FastAPI Flask MicrosoftSQLServer MongoDB MySQL SQLite Supabase Adobe Figma Canva Blender Pandas NumPy mlflow PyTorch TensorFlow Git GitHub Actions GitHub Testing-Library Jest Riot Games Epic Games EA Power Bi Steam nVIDIA AMD Kubernetes Meta Cisco Raspberry Pi Godot Engine PlayStation Network Unreal Engine Xbox Uber Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
