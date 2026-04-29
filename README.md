@@ -1,5 +1,9 @@
 # 💫 About Me:
-🎓 B.Tech CSE | Adamas University<br>🏗 Currently Working On JARVIS — Advanced AI Virtual Assistant<br>💻 Full Stack (React, Node, MongoDB)<br>🎮Game Developer<br>⚙️ Strong in C, C++,JAVA, JAVASCRIPT,HTML,MySQL & Data Structures
+🎓 B.Tech CSE | Adamas University<br>
+🏗 Currently Working On JARVIS — Advanced AI Virtual Assistant<br>
+💻 Full Stack (React, Node, MongoDB)<br>
+🎮Game Developer<br>
+⚙️ Strong in C,C++,Java,Python,JavaScript,HTML,MySQL & Data Structures
 
 
 ## 🌐 Socials:
