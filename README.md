@@ -1,5 +1,5 @@
 <h1 align="center">Soumyadeep Dey</h1>
-<h3 align="center">AOML Enthusiast | Game Developer | Cybersecutity</h3>
+<h3 align="center">AIML Enthusiast | Game Developer | Cybersecutity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Designing+Systems.;Building+AI+Infrastructure.;Engineering+With+Discipline." />
@@ -22,7 +22,7 @@
 
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,MySQL,java,python,js," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js," />
 </p>
 
 <h3 align="center">🎨 Frontend Development</h3>
@@ -70,11 +70,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAPTARSHI-coder&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SOUMYADEEPDEY1217&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SAPTARSHI-coder&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SOUMYADEEPDEY1217&theme=tokyonight" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAPTARSHI-coder&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUMYADEEPDEY1217&theme=react-dark" />
 </p>
 
 ---
