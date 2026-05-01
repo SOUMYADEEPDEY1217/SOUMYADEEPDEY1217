@@ -1,3 +1,6 @@
+<img width="1917" height="843" alt="Screenshot 2026-05-01 054914" src="https://github.com/user-attachments/assets/2970bd96-ba30-4bef-85b1-122f631d2646" />
+
+
 <h1 align="center">Soumyadeep Dey</h1>
 <h3 align="center">AIML Enthusiast | Game Developer | Cybersecutity</h3>
 
