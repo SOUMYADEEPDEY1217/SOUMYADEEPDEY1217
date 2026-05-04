@@ -88,8 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUMYADEEPDEY1217&theme=react-dark" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SOUMYADEEPDEY1217&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
