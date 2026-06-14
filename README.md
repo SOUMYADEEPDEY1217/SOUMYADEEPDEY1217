@@ -30,17 +30,17 @@
 
 <h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular,jquery,threejs,htmx,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,htmx,vite" />
 </p>
 
 <h3 align="center">⚙️ Backend & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,dotnet,hibernate,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,supabase" />
 </p>
 
 <h3 align="center">🗄 Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
 <h3 align="center">☁️ Cloud & DevOps</h3>
@@ -50,12 +50,12 @@
 
 <h3 align="center">🖥 Operating Systems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows" />
 </p>
 
 <h3 align="center">🤖 AI & Data Science</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda" />
 </p>
 
 <h3 align="center">🎮 Game & Creative</h3>
@@ -65,7 +65,7 @@
 
 <h3 align="center">🧰 Tools & IDEs</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,gradle,maven,cmake,bash,powershell,vim,vscode,visualstudio,idea,phpstorm,pycharm,eclipse,clion,androidstudio,postman,replit,notion,stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,gradle,maven,cmake,bash,powershell,vscode,visualstudio,eclipse,androidstudio,notion,stackoverflow" />
 </p>
 
 ---
